@@ -1,2 +1,2 @@
-# vuejs-example-code
-vuejs-example-code
+# frontend-example-code
+frontend-example-code
