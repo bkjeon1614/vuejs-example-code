@@ -1,14 +1,3 @@
----
-layout: post
-title: "Mocking 라이브러리 MSW (Mock Service Worker) 를 활용하자"
-subtitle: "2022-11-10-js-mocking-msw.md"
-date: 2022-11-10 18:50:00
-author: "전봉근"
-header-img: "img/posts/android-bg.jpg"
-comments: true
-tags: [js, javascript, vuejs, api]
----
-
 # Mocking 라이브러리를 활용하자
 프론트엔드 개발시에 가장 이상적인 프로세스는 기획, 분석, 백엔드 개발, 프론트 개발들의 작업들이 서로 겹치지 않고 각각 진행되는 것이 좋다.
 
