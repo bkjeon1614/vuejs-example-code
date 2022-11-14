@@ -404,6 +404,7 @@ export const getUserData = (params: { id: string }) => {
     
 [src/views/user/UserView.scss]   
 ```
+/* 필요시 작성 */
 ```
 
 [src/views/user/UserView.vue]   
